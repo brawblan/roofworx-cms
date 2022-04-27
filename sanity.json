@@ -1,11 +1,11 @@
 {
   "root": true,
-  "project": {
-    "name": "grey-worm"
-  },
   "api": {
     "projectId": "6bo53kmt",
     "dataset": "production"
+  },
+  "project": {
+    "name": "grey-worm"
   },
   "plugins": [
     "@sanity/base",
